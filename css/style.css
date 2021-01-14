@@ -1,3 +1,197 @@
+/* h1,h2,h3{
+    font-family: 'Bebas Neue', cursive;
+}
+
+li,p,h5,h3{
+
+    font-family: 'Roboto', sans-serif;
+}
+h1,h5,h3{
+
+    color: #363958;
+}
+h4{
+    color:#FABE4C;
+    font-weight: bold;
+    font-size: 35px;
+}
+.header-section{
+    height: 790px;
+    background-color: #FFFBF0;
+}
+
+.nav-image{
+    width:70%;
+}
+ul li{
+    padding: 1em;
+}
+a{
+    font-size: 15px;
+    font-weight: 700;
+    color: blueviolet;
+}
+
+.highlight-penguins{
+    color: #FABE4C;
+    font-size: 80px;
+}
+.highlight-winter{
+color: #363958;
+font-size: 80px;
+
+}
+.winter-section p{
+    font-size: 16px;
+    font-weight: 500;
+    color:#3e3e3e;
+    
+}
+/* .winter-section img{
+    width: 95%;
+    height: 70%;
+} */
+/* .winter-section-img img{
+    height: 80%;
+    width: 90%;
+}
+button
+.buy-button{
+    background-color:#98B134;
+    color: white;
+    border-radius: 10px;
+    height: 55px;
+    font-weight: 500px;
+    width:150px ;
+  
+}
+.buy-button i{
+    padding: 10px;
+}
+/*JACKET section*/
+
+/* .women-section  h1{
+   margin-top: 50px;
+    font-size: 50px;
+    font-weight: 600px;
+}
+@media (max-width: 768px) { 
+    .women-section  h1{
+        margin-top: 150px;
+        text-align: center; */ 
+    /* }
+    h1{
+        text-align: center;
+    }
+
+}
+.women-section h5{
+    font-size: 25px;
+    font-weight: bold;
+}
+.man-section h5{
+    font-size: 25px;
+    font-weight: bold;
+
+}
+.jacket-card{
+    border: none;
+    border-radius: 20px;
+}
+.jacket-card-footer{
+    border: none;
+    background-color: white;
+    border-radius: 20px;
+    padding-bottom: 25px;
+}
+
+ .jacket-card-img{
+    
+   padding: 30px;
+    background-color: #F1F1F1;
+    border-radius: 10px;
+    margin: 20px;
+} 
+.jacket-card-img img {
+    height: 300px;
+    width: 90%;
+        
+}
+/* last section */
+
+/* .last-section{
+    margin-top: 100px;
+}
+.find{
+    
+    border-radius: 1em;
+    width: 80%;
+}
+.find img{
+    width: 80px;
+}
+.find h3{
+    font-size: 22px;
+    font-weight:bold;
+    
+}
+.last-section-img img{
+    width: 90%;
+    margin-left: 20px;
+  
+}
+@media (max-width: 768px) { 
+    .last-section-img img{
+        margin-top: 100px;
+    }
+    .contact-part{
+        align-items: center;
+    }
+}
+
+.contact-part
+.last-section {
+    margin-bottom: 100px;
+}  */
+
+/* /*offer section*/
+
+/* 
+.offer-section{
+    margin-bottom: 100px;
+}
+
+.offer-section img{
+width: 100%;
+height: 250px;
+}  */
+
+/* @media (max-width: 768px) { 
+    .offer-item{
+        align-items: center;
+    }
+    .offer-section img{
+        width: 70%;
+    }
+}
+.offer-section h5{
+   color: lightslategray;
+    font-size: 25px;
+    font-weight: bold;
+}
+.offer-price{
+    margin-top: 50px;
+    
+}
+
+.offer-text p{
+    color:rgb(219, 14, 14) ;
+    margin-top: 20px;
+   font-weight: 900px;
+   font-size: 20px;
+}  */ 
+
+
 h1,h2,h3{
     font-family: 'Bebas Neue', cursive;
 }
@@ -66,6 +260,16 @@ font-size: 80px;
     font-size: 50px;
     font-weight: 600px;
 }
+@media (max-width: 768px) { 
+    .women-section  h1{
+        margin-top: 200px;
+        text-align: center; 
+     }
+    h1{
+        text-align: center;
+    }
+
+}
 .women-section h5{
     font-size: 25px;
     font-weight: bold;
@@ -85,13 +289,7 @@ font-size: 80px;
     border-radius: 20px;
     padding-bottom: 25px;
 }
-/* .categoris img{
-  height: 400px;
-
-   
-} */
- .jacket-card-img{
-    
+.jacket-card-img{
    padding: 30px;
     background-color: #F1F1F1;
     border-radius: 10px;
@@ -99,8 +297,7 @@ font-size: 80px;
 } 
 .jacket-card-img img {
     height: 300px;
-    width: 90%;
-        
+    width: 90%;     
 }
 /* last section */
 
@@ -125,6 +322,14 @@ font-size: 80px;
     margin-left: 20px;
   
 }
+@media (max-width: 768px) { 
+    .last-section-img img{
+        margin-top: 100px;
+    }
+    .contact-part{
+        align-items: center;
+    }
+}
 .last-section {
     margin-bottom: 100px;
 } 
@@ -133,6 +338,14 @@ font-size: 80px;
 
 .offer-section{
     margin-bottom: 100px;
+}
+@media (max-width: 768px) { 
+    .offer-item{
+        align-items: center;
+    }
+    .offer-section img{
+        width: 70%;
+    }
 }
 .offer-section img{
 width: 100%;
